@@ -43,18 +43,19 @@ Also, if you use the buttons below, you will move among the pages returned from 
 
 [record pagination.webm](https://github.com/iQuarK/image-grid/assets/86655/6c11b712-c3c3-48de-a639-8d54f7e48831)
 
+<img width="1121" alt="Screenshot 2024-06-18 at 06 24 05" src="https://github.com/iQuarK/image-grid/assets/86655/54c2e066-4cd9-488b-9626-52a1d8ff5abd">
+
+
 ## Responsiveness
 
 Yes, it is responsive:
+
 [responsive.webm](https://github.com/iQuarK/image-grid/assets/86655/66a64a19-7ef6-4fdc-bc97-3047098c3d1c)
 
 And no, it is not in position absolute.
 
 [asolte.webm](https://github.com/iQuarK/image-grid/assets/86655/f45643b2-b41a-4200-ae15-bab265522a04)
 
-
-
-<img width="1121" alt="Screenshot 2024-06-18 at 06 24 05" src="https://github.com/iQuarK/image-grid/assets/86655/54c2e066-4cd9-488b-9626-52a1d8ff5abd">
 
 
 
